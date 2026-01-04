@@ -7,6 +7,7 @@ and data-driven insights across marketing and operations.
 🔹 Open to volunteer & pro-bono analytics projects (remote)
 
 ## Featured Projects
+- Fraud Detection in Insurance Data
 - Marketing KPI Dashboard
 - Excel Business Analysis
 
